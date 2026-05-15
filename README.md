@@ -1,4 +1,4 @@
 # Amazon-Clone
 Amazon Clone using Html and CSS
 <br>
-Author - Guru Bharath Maddi
+Author -  Guru Bharath Maddi
